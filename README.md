@@ -1,4 +1,5 @@
 # belly-button-challenge
+This site is live at:  https://taschaef.github.io/belly-button-challenge/
 
 # Background
 In this assignment, I was asked to build an interactive dashboard to explore the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
