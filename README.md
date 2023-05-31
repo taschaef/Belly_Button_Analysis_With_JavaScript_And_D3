@@ -52,8 +52,9 @@ Complete the following steps:
 # Resources 
 1. Stack Overflow 
 2. AskBCS
-3. Plotly Documentation 
-4. JavaScript Documentation 
+3. Plotly Documentation https://plotly.com/javascript/
+4. W3 Schools - JavaScript & HTML Dom Reference https://www.w3schools.com/jsrEF/default.asp
+ 
 
 
 
